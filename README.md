@@ -53,14 +53,11 @@ The project compares:
 - Accuracy: ~X.XX
 - Confusion Matrix and Classification Report displayed in output cells
 
-## Contributing
-
-Feel free to fork this repository, make changes, and create a pull request.
 
 ## License
 
 [MIT License](LICENSE)
 
-## Contact
+## Colab Link
+https://colab.research.google.com/drive/1i99QAF3QEqa00kMQ4NpQrNZiorSlgqC3#scrollTo=l5XKzYL_b6ET
 
-For questions or collaboration, reach out to: your_email@example.com
